@@ -27,11 +27,11 @@ Example Exercise Routine
 
 
 Sunday: Walk 10 miles (4 hours)
-Monday: Arms-Chest-Back Lift (½ hour)
-Tuesday: Bike 20 miles (90 minutes- I do Zwift’s Temple Trek route) and Row 10k (1 hour)
-Wednesday: Full Body Lift (1 hour)
+Monday: Bike 20 miles (90 minutes- I do Zwift’s Temple Trek route) and Row 10k (1 hour)
+Tuesday: Arms-Chest-Back Lift (½ hour)
+Wednesday: Rest
 Thursday: Rest
-Friday: Rest
+Friday: Full Body Lift (1 hour)
 Saturday: Rest
 
 
@@ -151,3 +151,5 @@ Sedatives
 Booze (vodka)
 THC gummies
 Mad Honey
+
+
